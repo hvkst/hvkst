@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey, I´m Bernd,
+
+a full stack web developer based in Hamburg, Germany.
+
 
 <!--
 **hvkst/hvkst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
