@@ -2,6 +2,9 @@
 
 a full stack web developer based in Hamburg, Germany.
 
+I recently finished my web development bootcamp at Ironhack. I´m learning NextJS right now and I really like SASS 😍.
+
+Hit me up with project Ideas, let´s build things!
 
 <!--
 **hvkst/hvkst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
