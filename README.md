@@ -4,7 +4,7 @@ a full stack web developer based in Hamburg, Germany.
 
 I recently finished my web development bootcamp at Ironhack. I´m learning NextJS right now and I really like SASS 😍.
 
-Here are some of the projects I build during the bootcamp:
+Here are some of the projects I built during the bootcamp:
 
 orb
 
@@ -12,7 +12,6 @@ Do It!
 
 CustoMe
 
-Hit me up with project Ideas, let´s build things!
 
 <!--
 **hvkst/hvkst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
