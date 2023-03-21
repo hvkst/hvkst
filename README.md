@@ -1,3 +1,5 @@
+<!--
+
 ### Hey, I´m Bernd,
 
 a full stack web developer based in Hamburg, Germany.
@@ -13,7 +15,7 @@ Do It!
 CustoMe
 
 
-<!--
+
 **hvkst/hvkst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
